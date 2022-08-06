@@ -10,7 +10,7 @@
 #
 # Licença GPL
 
-############# Comandos que aprendi mas não usei devido ter o Ubuntu como Host
+############# Comandos que aprendi mas não usei devido ter o Ubuntu como Host na minha máquina
 ## cat /etc/passwd verifica os usuários no sistema
 ## userdel -r (nome-usuario) deleta o determinado usuário
 ## cat /etc/group verifica os grupos
@@ -55,3 +55,7 @@ chmod 770 /sec
 chmod 777 /publico #permissão total
 
 echo "Fim..."
+
+## Para rodar o código
+# chmod +x 01_estrutura.sh 
+# ./01_estrutura.sh 
