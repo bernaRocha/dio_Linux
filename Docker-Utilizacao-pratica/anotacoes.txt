@@ -1,0 +1,8 @@
+
+
+
+
+
+
+Replicando um volume no cluster:
+    apt-get install nfs-server  
