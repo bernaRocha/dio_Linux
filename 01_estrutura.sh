@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 01_estrutura.sh
-#
+# Infraestrutura como código
 # 
 # Script relativo ao projeto de código do Bootcamp Linux da Digital Innovation One
 # Autor       :Bernardo Monteiro Rocha - GitHub && Codeberg @bernaRocha
@@ -11,10 +11,10 @@
 # Licença GPL
 
 ############# Comandos que aprendi mas não usei devido ter o Ubuntu como Host na minha máquina
-## cat /etc/passwd verifica os usuários no sistema
-## userdel -r (nome-usuario) deleta o determinado usuário
-## cat /etc/group verifica os grupos
-## groupdel (GRP_ADM ou o nome do grupo) deleta grupo de usuários
+## cat /etc/passwd > verifica os usuários no sistema
+## userdel -r (nome-usuario) > deleta o determinado usuário
+## cat /etc/group > verifica os grupos
+## groupdel (GRP_ADM ou o nome do grupo) > deleta grupo de usuários
 
 echo "Criando diretórios...."
 
