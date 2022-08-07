@@ -1,8 +1,26 @@
+Problemas de uma nuvem privada(não é uma regra):
+    - segurança, lógica e física
+    - custo da mão de obra
+    - cursto do hardware
+    - energia elétrica
+    - falta de energia, uso de geradores
+    - despesas inesperadas, ar condicionado, segurança
 
+Vantagens de nuvem pública:
+    - preço, pague pelo que vocÊ usa
+    - facildiade de contratação, configuração e infraestrutura
+    - escalabilidade e performance
+
+Monolítico:
+- todo o código de todos os itens do sistema em um único código
+
+Microserviços:
+ - tipo inovador de arquiteutra, aplicações construidas desmembradas em serviços independentes.
+ Estes serviços se comunicam via APIs e promovem uma maior agilidade entre o time de desenvolvimento
 
 
 
 
 
 Replicando um volume no cluster:
-    apt-get install nfs-server  
+    apt-get install nfs-server  TODO - pesquisar nfs
